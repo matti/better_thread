@@ -1,6 +1,6 @@
 # BetterThread
 
-[Thread](https://ruby-doc.org/core-2.5.0/Thread.html) with timeout
+Ruby's [Thread](https://ruby-doc.org/core-2.5.0/Thread.html) with timeout
 
 ```ruby
 bt = BetterThread.new timeout: 3 do
