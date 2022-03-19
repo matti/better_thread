@@ -1,5 +1,7 @@
 # BetterThread
 
+Thread with timeout
+
 ```ruby
 bt = BetterThread.new timeout: 3 do
   sleep 5
